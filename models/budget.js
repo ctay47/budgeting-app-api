@@ -1,0 +1,65 @@
+module.exports = [
+  {
+    date: 'April 1',
+    name: '',
+    category: 'Income',
+    from: '',
+    amount: 1000,
+  },
+  {
+    date: 'April 1',
+    name: '',
+    category: 'Taxes',
+    from: '',
+    amount: -300,
+  },
+  {
+    date: 'April 1',
+    name: '',
+    category: 'Retirement',
+    from: '',
+    amount: -200,
+  },
+  {
+    date: 'April 1',
+    name: '',
+    category: 'Credit Card Payment',
+    from: '',
+    amount: -100,
+  },
+  {
+    date: 'April 5',
+    name: '',
+    category: 'Monthly Birthday Money from Aunt Tilda ',
+    from: '',
+    amount: -20,
+  },
+  {
+    date: 'April 5',
+    name: '',
+    category: 'Coffee',
+    from: '',
+    amount: -4,
+  },
+  {
+    date: 'April 5',
+    name: '',
+    category: 'Internet',
+    from: '',
+    amount: -100,
+  },
+  {
+    date: 'April 3',
+    name: '',
+    category: 'Groceries',
+    from: '',
+    amount: -100,
+  },
+  {
+    date: 'April 3',
+    name: '',
+    category: 'Pet Food',
+    from: '',
+    amount: -7,
+  }
+];
